@@ -36,3 +36,6 @@
 || 2 -  sistema detecta que a mesa está ocupada e o notifica disso| 
 |3 - O garçom escolhe outra mesa disponível.||
 
+# Prótotipo
+Não existe prótotipo desse sistema ainda
+
